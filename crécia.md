@@ -154,6 +154,7 @@ def saudacao(nome):
 
 print(saudacao("Mundo"))
 
+![PYTHON](https://github.com/user-attachments/assets/b805c25d-50d2-4f48-9cc0-c8a86ec25aba)
 
 
 
@@ -161,13 +162,30 @@ print(saudacao("Mundo"))
 
 
 java
-public class HelloWorld {
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
     public static void main(String[] args) {
-        System.out.println("Olá, Mundo!");
+        System.out.println("Hello world!");
     }
 }
+
+![java](https://github.com/user-attachments/assets/7c03eecf-b602-4a19-b811-5a1714fb6887)
+
+
+
+
 
 
 javaScript
 
-console.log("Olá, Mundo!");
+console.log("Hello world!");
+
+![javascript](https://github.com/user-attachments/assets/935295b1-ea98-488f-adf5-4f0fe7b07210)
+
+
+
+
