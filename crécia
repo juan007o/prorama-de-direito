@@ -135,4 +135,33 @@ if __name__ == "__main__":
     main()
 
 
+AULA 5
+
+ algoritmo de ordenação Bubble Sort
+
+file:///C:/Users/202107290951/Desktop/algoritmo%20de%20ordena%C3%A7%C3%A3o%20Bubble%20Sort.PNG
+
+def bubble_sort(arr):
+    n = len(arr)
+    
+    # Passa por todos os elementos da lista
+    for i in range(n):
+        # Últimos i elementos já estão na posição correta
+        for j in range(0, n-i-1):
+            # Troca se o elemento encontrado for maior do que o próximo
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    
+    return arr
+
+def main():
+    lista = [64, 34, 25, 12, 22, 11, 90]
+    print("Lista antes da ordenação:", lista)
+    lista_ordenada = bubble_sort(lista)
+    print("Lista depois da ordenação:", lista_ordenada)
+
+if __name__ == "__main__":
+    main()
+
+
 
