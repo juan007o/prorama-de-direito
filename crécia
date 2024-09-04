@@ -102,7 +102,11 @@ estrutura de repeticao
 for i in range(5):  # range(5) gera números de 0 a 4
     print(f"Este é o número {i}")
 
+file:///C:/Users/202107290951/Desktop/Estrutura%20de%20Repeti%C3%A7%C3%A3o.PNG
+
 estrutura tomada de decisão
+
+file:///C:/Users/202107290951/Desktop/estrutura%20de%20tomada%20de%20decis%C3%A3o.PNG
 
 def avaliar_desempenho(nota):
     if nota >= 7:
