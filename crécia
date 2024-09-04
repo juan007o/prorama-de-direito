@@ -97,7 +97,37 @@ console.log("Olá, Mundo!");
 
 AULA 4
 
+estrutura de repeticao
 
 for i in range(5):  # range(5) gera números de 0 a 4
     print(f"Este é o número {i}")
+
+estrutura tomada de decisão
+
+def avaliar_desempenho(nota):
+    if nota >= 7:
+        return "Aprovado"
+    elif nota >= 5:
+        return "Recuperação"
+    else:
+        return "Reprovado"
+
+def main():
+    try:
+        nota = float(input("Digite a nota final do aluno (0 a 10): "))
+        
+        # Verifica se a nota está no intervalo válido
+        if nota < 0 or nota > 10:
+            print("Nota inválida. A nota deve estar entre 0 e 10.")
+            return
+        
+        resultado = avaliar_desempenho(nota)
+        print(f"O aluno está: {resultado}")
+    
+    except ValueError:
+        print("Entrada inválida. Por favor, digite um número.")
+
+if __name__ == "__main__":
+    main()
+
 
