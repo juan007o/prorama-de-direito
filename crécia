@@ -94,3 +94,10 @@ java public class HelloWorld { public static void main(String[] args) { System.o
 javaScript
 
 console.log("Olá, Mundo!");
+
+AULA 4
+
+# Exemplo de estrutura de repetição usando for loop
+for i in range(5):  # range(5) gera números de 0 a 4
+    print(f"Este é o número {i}")
+
