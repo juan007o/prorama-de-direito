@@ -163,5 +163,31 @@ def main():
 if __name__ == "__main__":
     main()
 
+algorítimo que imprima apenas as vogais de uma
+determinada palavra ou frase
+
+file:///C:/Users/202107290951/Desktop/algor%C3%ADtimo%20que%20imprima%20apenas%20as%20vogais%20de%20uma.PNG
+
+def extrair_vogais(texto):
+    # Definindo as vogais
+    vogais = "aeiouAEIOU"
+    
+    # Usando uma lista para armazenar as vogais encontradas
+    vogais_encontradas = [char for char in texto if char in vogais]
+    
+    # Convertendo a lista para uma string
+    resultado = ''.join(vogais_encontradas)
+    
+    return resultado
+
+def main():
+    frase = input("Digite uma palavra ou frase: ")
+    vogais = extrair_vogais(frase)
+    print("Vogais encontradas:", vogais)
+
+if __name__ == "__main__":
+    main()
+
+
 
 
