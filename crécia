@@ -188,6 +188,37 @@ def main():
 if __name__ == "__main__":
     main()
 
+18/07/2024
+1 - Dominar os conceitos fundamentais do Direito é vantajoso por várias razões: Entender os princípios básicos permite uma análise mais crítica e abrangente das normas e das situações jurídicas; Conhecer bem os conceitos ajuda na aplicação correta das leis em casos concretos, evitando erros e mal-entendidos; Uma base sólida facilita a construção de argumentos coerentes e persuasivos, essenciais em discussões e litígios;  Compreender os fundamentos do Direito melhora a interpretação de textos legais e decisões judiciais; Conhecer os conceitos centrais permite uma abordagem mais eficaz na mediação e resolução de disputas. Em resumo, a familiaridade com os conceitos fundamentais do Direito não só aprimora a prática jurídica, mas também contribui para uma atuação ética e responsável.
+
+2 - a) Algoritmo
+Um algoritmo é um conjunto de instruções ou regras bem definidas e sequenciais que descrevem como resolver um problema específico ou realizar uma tarefa. Em programação, os algoritmos são fundamentais para desenvolver software, pois determinam como os dados devem ser processados.
+
+b) Nuvem
+"Nuvem" refere-se a serviços de computação baseados na internet que permitem o armazenamento, processamento e gerenciamento de dados em servidores remotos, em vez de no dispositivo local. Isso inclui serviços como armazenamento em nuvem (ex.: Google Drive, Dropbox) e computação em nuvem (ex.: AWS, Azure).
+
+c) Servidor
+Um servidor é um computador ou sistema que fornece serviços, recursos ou dados a outros computadores, chamados de clientes, em uma rede. Servidores podem hospedar websites, gerenciar e-mails, armazenar arquivos e muito mais.
+
+d) Neutralidade da Rede
+A neutralidade da rede é o princípio que garante que todos os dados na internet sejam tratados de forma igual, sem discriminação ou cobrança diferencial por parte dos provedores de serviços de internet. Isso significa que os provedores não podem bloquear ou priorizar o acesso a determinados conteúdos ou serviços.
+
+e) Arquivo
+Um arquivo é uma coleção de dados ou informações que é armazenada em um dispositivo de armazenamento, como um computador ou um servidor. Os arquivos podem ter diferentes formatos (como .txt, .jpg, .pdf) e são usados para organizar e gerenciar informações de maneira acessível. 
+
+3 - Internet é uma rede integrada onde máquinas, cabos, programas e dados se interconectam, formando um ecossistema complexo. Essa organização em torno de uma única palavra reflete a funcionalidade colaborativa e a interdependência de todos esses elementos, permitindo que a Internet seja uma ferramenta poderosa e acessível para a comunicação global.
+
+4 -  os computadores não foram inventados apenas para repetir o que os humanos fazem, mas sim para expandir nossas capacidades, aumentar a eficiência e possibilitar novas formas de pensar e resolver problemas. Eles se tornaram ferramentas essenciais para a evolução da sociedade moderna.
+
+
+5 - Não, pela complexidade de compreensão e pela incerteza da motivação da tomada de decisão. 
+
+6 - A principal diferença entre arquivos binários e de texto está na forma como os dados são representados e armazenados. Enquanto arquivos de texto são legíveis (caracteres) e editáveis por humanos, arquivos binários requerem interpretação específica (bits) e são utilizados para armazenar dados mais complexos.
+
+7 -  A principal diferença entre formatos proprietários e abertos é o nível de controle, acessibilidade e transparência que eles oferecem. Formatos abertos promovem a colaboração e a flexibilidade, enquanto formatos proprietários podem restringir o uso e a interoperabilidade, na política de dados publicos, os dados públicos sem restrição de privacidade são divulgados em arquivos de formato aberto.
+
+8 - A diferença entre protocolos abertos e proprietários está na acessibilidade, controle, interoperabilidade e transparência. Protocolos abertos promovem um ambiente colaborativo e flexível, enquanto protocolos proprietários podem criar barreiras e limitações no uso e desenvolvimento.  
+
 
 
 
